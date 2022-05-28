@@ -1,0 +1,11 @@
+{
+  "name": "livrevite",
+  "version": "1.0.0",
+  "description": "api de l application de livraison livrevite",
+  "main": "serveur.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mve Mve Arnold-Junior",
+  "license": "ISC"
+}
